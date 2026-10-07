@@ -19,6 +19,9 @@ Repositori ini dibuat untuk memenuhi Tugas Responsi 1 Pemrograman Mobile.
   </tr>
 </table>
 
+## Video Penjelasan Kode
+🎥 **[Tonton Video Penjelasan Kode di sini (YouTube)](https://youtu.be/0tyoCQUAWzs?si=SbzN6hCmzHgjJoRX)**
+
 ## Tampilan Aplikasi
 
 | Home Screen | Detail Screen |
